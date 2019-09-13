@@ -15,5 +15,7 @@
 		"url": "https://github.com/sumit-sharma/freecodecamp-exercise.git"
 	},
 	"author": "Sumit Sharma",
-	"license": "ISC"
+	"license": "ISC",
+	"description": "learning exercise"
+
 }
